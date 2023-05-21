@@ -1,5 +1,8 @@
-### Hi there 👋
-
+- 👋 Hi, I'm Aziz Naceur
+- 👀 I’m interested in Arts , Coding and Astronomy
+- 🌱 I’m currently learning Computer Science and Software Engineering
+- 💞️ I’m looking to collaborate on Future Projects
+- 📫 How to reach me aziz.naceur@ieee.org 
 <!--
 **aziznaceur/aziznaceur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
